@@ -1,0 +1,4 @@
+# StoryVoice has no build step: Netlify serves the files as they are.
+[build]
+  publish = "."
+  command = ""
